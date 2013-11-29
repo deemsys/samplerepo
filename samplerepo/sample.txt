@@ -1,4 +1,1 @@
-<<<<<<< .mine
-sample new files
-change made by suresh=======
-sample files hdskjahdsad>>>>>>> .r4
+sample new files by suresh
